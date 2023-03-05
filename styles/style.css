@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#snakeField {
+    display: inline-block;
+    margin-right: 200px;
+    vertical-align: top;
+}
+
+.control-info {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 100px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+    box-shadow: 0 -1px 3px rgba(0,0,0,.2);
+}
